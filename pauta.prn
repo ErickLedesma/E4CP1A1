@@ -1,0 +1,37 @@
+div1
+    imagen   - background
+    navbar
+    div11    5 col 3 offset
+        
+    end div11
+end div1    
+   
+div2
+    div21   5 col 3 offset
+       texto
+       imagen
+       texto
+
+    end div 21
+end div2
+
+div3
+    div31
+       texto
+       boton
+       texto
+    div31
+end div3
+
+div4
+  div41
+  end div41
+
+  div42
+  end div42
+end div4
+
+div5
+   texto
+end div5
+
